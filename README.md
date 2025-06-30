@@ -26,8 +26,11 @@ Jet Lag Minimizer is a simple Vue 3 app that helps travelers reduce jet lag by s
    - The app will display a recommended sleep schedule to help minimize jet lag.
    - It will also show the duration of both flights and highlight which one is longer.
 
+
 4. **Follow the Recommendations**
    - Use the suggested sleep schedule and flight duration info to plan your trip and reduce jet lag.
 
 ---
 This project is built with Vue 3 and Vite.
+
+<img width="1203" alt="Screenshot 2025-06-30 at 12 41 31 PM" src="https://github.com/user-attachments/assets/bf663b1b-fce0-4fa9-9f61-03ebe47ac23c" />
